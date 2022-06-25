@@ -1,4 +1,8 @@
-#Screenshots of the Survey form.
+<h1 align="center">PROJECT</h1>
+<h3 align="center">SURVEY FORM</h3>
+<hr>
+<br>
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/98550817/175782439-eb94c3dc-9b6f-40a9-8e6b-c136895e1014.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/98550817/175782448-c7c9e7aa-faba-44c6-b2af-ab99383f94ae.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/98550817/175782451-5ec24ef8-5621-4911-8432-2e9bd48a7cf1.png)
